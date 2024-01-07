@@ -4,3 +4,6 @@ I don't use APIs
 I use react-tosify UI library, bootstrap, react-router-dom local user data
 
 demo version: https://mini-auth.netlify.app/
+
+login: Oybek
+password: Oybek123
