@@ -1,0 +1,15 @@
+.h-100vh {
+  height: 100vh;
+}
+
+.App{
+  background-color: #f5f5f7;
+}
+
+.bg-color-blue{
+  background-color: #f2f4f7;
+}
+
+.w-45{
+  width: 45%;
+}
